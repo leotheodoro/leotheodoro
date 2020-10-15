@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/leotheodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="leotheodoro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-theodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardo-theodoro" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/80431/leonardo-theodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="80431/leonardo-theodoro" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8710193/leonardo-theodoro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8710193/leonardo-theodoro" height="30" width="40" /></a>
 <a href="https://instagram.com/leotheodoro_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="leotheodoro_" height="30" width="40" /></a>
 <a href="https://medium.com/@simplespinheiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@simplespinheiro" height="30" width="40" /></a>
 </p>

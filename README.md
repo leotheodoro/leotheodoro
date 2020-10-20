@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Adonis, GraphQL and SOLID**
 
-- 📝 I regulary write articles on [medium.com/@simplespinheiro](medium.com/@simplespinheiro)
+- 📝 I regularly write articles on [medium.com/@simplespinheiro](medium.com/@simplespinheiro)
 
 - 💬 Ask me about **anything, really, let's discuss.**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences at [linkedin.com/in/leonardo-theodoro/](linkedin.com/in/leonardo-theodoro/)
 
-- ⚡ Fun fact **I'm a big fan of Jake Gyllenhaal**
+- ⚡ Fun fact about me is that **I'm a big fan of Jake Gyllenhaal**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

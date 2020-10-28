@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Theodoro</h1>
 <h3 align="center">Passionate about everything I do. Traveler, gamer and writer in free time.</h3>
 
-- 🔭 I’m currently working with **Laravel, React and Typescript**
+- 🔭 I’m currently working with **Laravel, React, Node and Typescript**
 
 - 🌱 I’m currently learning **React, Adonis, GraphQL and SOLID**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences at [linkedin.com/in/leonardo-theodoro/](linkedin.com/in/leonardo-theodoro/)
 
-- ⚡ Fun fact about me is that **I'm a big fan of Jake Gyllenhaal**
+- ⚡ Fun fact about me is that **I love workout**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>

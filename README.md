@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Theodoro</h1>
 <h3 align="center">Passionate about everything I do. Traveler, gamer and writer in free time.</h3>
 
-- 🔭 I’m currently working with **Laravel, React, Node and Typescript**
+- 🔭 I’m currently working with **React, Node, Typescript and Python**
 
 - 🌱 I’m currently learning **React, Adonis, GraphQL and SOLID**
 
